@@ -6,4 +6,4 @@ Hey, alle machen DevOps! Wir müssen auch unbedingt DevOps Leute einstellen! Was
 
 ## Slides
 
-https://slides.com/oroessner/devops-is-not-a-job-title
+<https://slides.com/oroessner/devops-is-not-a-job-title>

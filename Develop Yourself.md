@@ -1,24 +1,19 @@
-“Develop Yourself” oder wie werde ich Code Ninja?
-=================================================
+# “Develop Yourself” oder wie werde ich Code Ninja?
 
-Softwareentwicklung ist mehr als stumpfes Code runter schreiben. Es vereint logisches Denken, Kreativität und handwerkliches Können. Handwerklich? Unter dem Leitgedanken der Software Craftsmanship Bewegung beleuchten wir den handwerklichen Teil der Softwareentwicklung, die Importanz bestimmter Tools und das regelmäßige Training in Form von Code Katas. 
+Softwareentwicklung ist mehr als stumpfes Code runter schreiben. Es vereint logisches Denken, Kreativität und handwerkliches Können. Handwerklich? Unter dem Leitgedanken der Software Craftsmanship Bewegung beleuchten wir den handwerklichen Teil der Softwareentwicklung, die Importanz bestimmter Tools und das regelmäßige Training in Form von Code Katas.
 
-“Develop yourself” or how to become a Code Ninja?
-==================================
+# “Develop yourself” or how to become a Code Ninja?
 
-Software development is more than hacking code into an editor. It unites logical thinking, creativity and craftsmanship. Craftsmanship? Under the guiding principle of the software craftsmanship movement, we are going to shed light on the craft of software development, the importance of the right tools and how to practice regularly in code katas and randoris. 
+Software development is more than hacking code into an editor. It unites logical thinking, creativity and craftsmanship. Craftsmanship? Under the guiding principle of the software craftsmanship movement, we are going to shed light on the craft of software development, the importance of the right tools and how to practice regularly in code katas and randoris.
 
-Slides:
-=======
+## Slides
 
-http://slides.com/neusta/develop-yourself-sflive-2018
+<http://slides.com/neusta/develop-yourself-sflive-2018>
 
-Video:
-======
+## Video
 
-https://youtu.be/cIH6_SlArP0
+<https://youtu.be/cIH6_SlArP0>
 
-Bewertungen:
-============
+## Bewertungen
 
-https://joind.in/event/symfonylive-berlin-2018/develop-yourself---ein-pldoyer-fr-mehr-software-handwerkskunst
+<https://joind.in/event/symfonylive-berlin-2018/develop-yourself---ein-pldoyer-fr-mehr-software-handwerkskunst>

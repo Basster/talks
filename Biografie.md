@@ -1,5 +1,4 @@
-Biografie
-==========
+# Biografie
 
 ![Ole Rößner](oroessner.jpg)
 
