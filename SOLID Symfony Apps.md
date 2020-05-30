@@ -15,3 +15,8 @@ Symfony is great for getting results fast. For complex applications, some teams 
 ## Bewertungen
 
 <https://joind.in/event/symfonylive-berlin-2019/solide-symfony-apps-bauen>
+
+## License
+
+[![Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons Attribution 4.0 International License")](http://creativecommons.org/licenses/by/4.0/)    
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
