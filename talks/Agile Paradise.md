@@ -1,4 +1,4 @@
-# Agile Paradise
+# Agile Paradise (German only)
 
 Agil ist mehr als Scrum oder Kanban. Agil ist eine Einstellung, eine Mentalität. Agilität in Teams kommt nicht von heute auf morgen und lässt sich nicht an- und ausschalten, wie eine Schreibtischlampe. Doch was heißt “Agil” eigentlich, wenn man die Ideen dahinter mal losgelöst vom Alltag, auf der grünen Wiese betrachtet? Der Vortrag soll zeigen, wie Agil unter optimalen Bedingungen laufen könnte und sollte und gibt Denkanstöße und Tools um agiler zu werden und zu bleiben.
 
