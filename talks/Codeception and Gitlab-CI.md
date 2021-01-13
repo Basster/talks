@@ -1,6 +1,3 @@
-⚠️ Work in Progress ⚠️ 
-Vorlauf, ca 1 Monat, um mich zu motivieren! 😉
-
 # “Akzeptanztests mit Codeception und Gitlab-CI” oder wie ich ein Henne-Ei-Problem löse
 
 Oberflächentests zu automatisieren ist eine Herausforderung. Oft reichen Unit-Tests alleine nicht aus, um die Funktionsfähigkeit einer Webanwendung sicher zu stellen. Um eine Website jedoch mit einem Browser testen zu können, muss sie irgendwie via HTTP erreichbar sein. Aber wie geht das, wenn man nicht zig verschiedene Versionen auf dem QA-Server haben möchte und wer räumt die nachher wieder auf?
