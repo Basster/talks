@@ -10,6 +10,8 @@ In this talk I try to convey how to write acceptance tests with PHP for any webs
 
 ## Slides
 
+* <https://slides.com/neusta/acceptance-tests-with-codeception-and-gitlab-ci/>
+
 ## Video
 
 ## Bewertungen
